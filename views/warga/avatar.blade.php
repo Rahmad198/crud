@@ -1,0 +1,1 @@
+<img src="{{$warga->getFoto()}}" alt="">
